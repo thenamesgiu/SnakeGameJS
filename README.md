@@ -8,11 +8,18 @@ Ao fazer a cobra encostar no próprio corpo, o jogador receberá um alert do nav
 ## Prévia de interface
 A página presente no repositório não apresenta responsividade, então não é recomendado o acesso através de dispositivos móveis, também é aconselhável ter um teclado à disposição.
 
-### Jogo inicial 
-![Visualização da página em resolução desktop](https://github.com/thenamesgiu/SnakeGameJS/blob/main/previews/nopoints-prev.PNG)
+## Jogo inicial 
+<p align="center">
+  <img src="https://github.com/thenamesgiu/SnakeGameJS/blob/main/previews/nopoints-prev.PNG">
+</p>
 
-### Pontos já adquiridos
-![Visualização da página em resolução desktop](https://github.com/thenamesgiu/SnakeGameJS/blob/main/previews/somepointsnow-prev.PNG)
+## Pontos já adquiridos
+<p align="center">
+  <img src="https://github.com/thenamesgiu/SnakeGameJS/blob/main/previews/somepointsnow-prev.PNG">
+</p>
 
-### Game Over 
-![Visualização da página em resolução desktop](https://github.com/thenamesgiu/SnakeGameJS/blob/main/previews/youlost-prev.PNG)
+## Game Over 
+<p align="center">
+  <img src="https://github.com/thenamesgiu/SnakeGameJS/blob/main/previews/youlost-prev.PNG">
+</p>
+
